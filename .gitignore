@@ -1,0 +1,20 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Caches and logs
+*.log
+
+# Environment files
+.env
+
+# AWS credential files (for security, configure with AWS CLI instead)
+.aws/
+
+# Package management files
+*.egg-info/
+dist/
+build/
+
+venv
